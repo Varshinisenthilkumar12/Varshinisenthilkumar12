@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Varshini</h1>
+<h1 align="center">Heyy! 👋, I'm Varshini</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshinisenthilkumar12&label=Profile%20views&color=0e75b6&style=flat" alt="varshinisenthilkumar12" /> </p>
