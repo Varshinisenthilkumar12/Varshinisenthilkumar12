@@ -7,6 +7,8 @@
 
 - Hello! **I'm Varshini**
 
+- 📖 Pursuing B.Tech(IT) **in KPR Institute of Engineering Technology**
+
 - 🌱 I’m currently learning **Backend developement @Spotknack**
 
 - 📫reach me @ **varshinisenthilkumar12@gmail.com**
