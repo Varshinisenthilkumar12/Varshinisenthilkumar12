@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Varshinisenthilkumar
-- 📖 Pursuing B.Tech(IT) in KPR  institute of engineering and technology
-- 🌱 Learning Backend developement @spotknack
+
 
 
 <!---
