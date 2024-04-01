@@ -13,7 +13,7 @@
 
 - 📫reach me @ **varshinisenthilkumar12@gmail.com**
 
-- Linktree - https://linktr.ee/varshini_senthilkumar
+- 📫 Linktree - https://linktr.ee/varshini_senthilkumar
 
 - ⚡All you need is to believe in yoursef
 
